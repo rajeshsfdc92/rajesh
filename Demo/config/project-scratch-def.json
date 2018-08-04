@@ -1,0 +1,8 @@
+{
+    "orgName": "Demo Company12",
+    "edition": "Developer",
+	"country": "US",
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
+}
